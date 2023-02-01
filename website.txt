@@ -1,0 +1,164 @@
+/* Cabeçalho
+--------------------------------------------------
+
+Natasha.
+
+Casa
+Cerca de
+Habilidades
+Serviços
+portfólio
+blog
+Contato
+
+/* Casa
+--------------------------------------------------
+
+Eu sou <span class="home__name">Natasha</span><br>
+Designer de UI/UX<br>
+& Desenvolvedor
+
+Laculis eget elementum felis pellentesque tellus tellus tincidunt
+tortor natoque. Cras amet ornare egestas.
+
+Contrate-me
+
+Siga-me: Facebook - Twitter - Dribbble
+
+
+/* Cerca de
+--------------------------------------------------
+
+Sobre mim
+Desenho e Desenvolvo Experiências que
+tornar a vida das pessoas simples.
+
+Viverra nisl nibh dolor nam venenatis turpis ultrices. Vulputate facilisis urna pulvinar fringilla consequat molestie vulputate lacus.
+Pretium leo et nec fusce. Cursus volutpat sed.
+
+Baixar currículo
+
+/* Habilidades
+--------------------------------------------------
+
+Minhas habilidades
+Algumas das minhas ferramentas de trabalho
+
+
+Design de interface do usuário/UX
+-Figma
+-Adobe XD
+- Ilustrador
+-Photoshop
+- Retrato falado
+- InVision
+
+Desenvolvimento web
+- HTML
+-CSS
+- JavaScript
+- Node.Js
+- Reagir
+- Vue.js
+
+/* Balcão
+--------------------------------------------------
+
+8
+Anos de experiência
+
+100
+Projetos Concluídos
+
+350
+Copos de café
+
+225
+Clientes satisfeitos
+
+
+/* Serviços
+--------------------------------------------------
+
+Meus serviços
+O que ofereço aos meus clientes
+
+Sit elementum fringilla ipsum accumsan sagittis ullamcorper dolor. Nunc tempor ut amet enim dui. Congue viverra tortor integer fames amet odio cursus.
+
+Rhoncus lacinia turpis sagittis sed ipsum hendrerit nunc non. Leo massa a est ullamcorper at vulputate. Sit elementum fringilla ipsum accumsan sagittis ullamcorper dolor. Nunc tempor ut amet enim dui. Congue viverra tortor integer fames amet odio cursus.
+
+Vamos conversar
+
+- Desenvolvimento Frontend
+- Design de interface do usuário/UX
+- Design gráfico
+
+Nunc nunc facilisis eu non enim adipiscing. Erat nunc dignissim condimentum quis.
+
+
+/* Meu portfolio
+--------------------------------------------------
+
+Meu portfolio
+Projetos em destaque
+
+- Design do site
+- Design de interface do usuário/UX do aplicativo móvel
+- Redesenho do aplicativo
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae
+facilis repellendus...
+
+
+/* Testemunhos
+--------------------------------------------------
+
+Shawn Wallace
+Fotógrafo
+
+Ashley Robie
+gerente de produto
+
+Lee Elliot
+Engenheiro de software
+
+Em ultricies em purus egestas em donec amet gravida nunc. Mauris pellentesque ipsum proin placerat aliquam libero arcu.
+
+/*Blog
+--------------------------------------------------
+
+Meu blog
+Últimas postagens e notícias
+
+Design de interface do usuário/UX
+10 tendências de UI/UX Design que marcaram 2023
+
+Design de interface do usuário/UX
+As 5 ferramentas de prototipagem mais usadas para UI/UX Designers em 2023
+
+Desenvolvimento web
+React vs Vue: qual é melhor e por quê?
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Ilum
+nihil quam velit ipsam possimus.
+
+consulte Mais informação
+
+
+/* Contato
+--------------------------------------------------
+
+Vamos conversar
+Tem uma ideia de projeto? Sinta-se à vontade para contactar
+
+Ligue: (+987) 954 578 420
+E-mail: info@natasha.com
+Localização: 23 Avenue California, EUA
+
+/* Rodapé
+--------------------------------------------------
+
+Natasha Smith
+Home - Sobre - Habilidades - Serviços - Portfólio - Blog - Contato
+
+Copyright 2023 Código de Touro. Todos os direitos reservados
