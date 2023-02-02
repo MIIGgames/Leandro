@@ -102,8 +102,8 @@ Nunc nunc facilisis eu non enim adipiscing. Erat nunc dignissim condimentum quis
 Meu portfolio
 Projetos em destaque
 
-- Design do site
-- Design de interface do usuário/UX do aplicativo móvel
+- Website Design
+- Design de interface do UI/UX do aplicativo móvel
 - Redesenho do aplicativo
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae
