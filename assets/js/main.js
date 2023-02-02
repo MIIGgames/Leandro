@@ -70,3 +70,15 @@ window.addEventListener("scroll", () => {
         started = true;
     }
 })
+
+//ScrollTop 
+
+const scrolltop = document.getElementById("scrollTop")
+
+window.addEventListener("scroll", () => {
+    if (this.scrollY >= 300) {
+        scrolltop.classList.add("scrolltop--show")
+    } else {
+        scrolltop.classList.remove("scrolltop--show")
+    }
+})
